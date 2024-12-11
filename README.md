@@ -1,2 +1,2 @@
-# To Do List
- 
+This To-Do List web app is designed to help users organize and manage their daily tasks in a simple and efficient manner. The app allows users to add, edit, and delete tasks, as well as mark them as completed. It is built using Flask for the backend and React for the frontend, offering a smooth and interactive experience. The application also includes a user authentication system, allowing users to securely manage their to-do lists.
+Whether you're looking to track personal tasks or manage a team’s workflow, this app provides a clear, easy-to-use interface. It offers real-time task management and ensures your data is always saved, even when you log out or close the browser. The app is fully responsive, making it convenient for use on both desktop and mobile devices.
